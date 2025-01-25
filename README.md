@@ -2,7 +2,7 @@
 
 A simple and lightweight Flutter package for adding horizontal shake animations to your widgets. Perfect for creating attention-grabbing UI elements like error indicators, animated icons, or any widget that requires a shaking effect.
 
-<img src="https://github.com/user-attachments/assets/3a1cc683-70a4-4d67-b029-5c1eb749cff9" alt="Flutter shaking widget Demo" style="height:300px;">
+<img src="https://github.com/user-attachments/assets/3a1cc683-70a4-4d67-b029-5c1eb749cff9" alt="Flutter shaking widget Demo" style="height:400px;">
 
 ## Features
 
